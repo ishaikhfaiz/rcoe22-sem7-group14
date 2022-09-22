@@ -1,5 +1,5 @@
 server/node_modules/
-client/delve/node_modules/
+client/delve/node_modules
 jspm_packages/
 bower_components/
 
