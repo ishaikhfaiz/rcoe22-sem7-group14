@@ -1,44 +1,40 @@
-import React, { useEffect } from 'react';
-import { Container, AppBar, Typography, Grow, Grid } from '@mui/material';
+import React from 'react';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { Container } from '@mui/material';
 
-import { useDispatch } from 'react-redux';
-import { getPosts } from './actions/posts';
-
-// import delve-logo from './images/delve-logo.png';
-import Posts from './components/Posts/Posts';
-import Form from './components/Form/Form';
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import useStyles from './styles';
+import Navbar from './components/Navbar/Navbar';
+import Home from './components/Home/Home';
+import PostDetails from './components/PostDetails/PostDetails';
+import Auth from './components/Auth/Auth';
+import { GoogleOAuthProvider } from '@react-oauth/google';
 
 const App = () => {
   const theme = createTheme();
-  const classes = useStyles();
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    dispatch(getPosts());
-  }, [dispatch])
+  const user = JSON.parse(localStorage.getItem('profile'));
 
   return (
-    <ThemeProvider theme={theme}>
-      <Container maxWidth="lg">
-        <AppBar className={classes.appBar} position="static" color="inherit">
-          <Typography className={classes.heading} variant="h2" align='center'>DELVE</Typography>
-          {/* <img className={classes.image} src="{delve-logo}" alt="DelveLogo" height="60"/> */}
-        </AppBar>
+    <GoogleOAuthProvider clientId='191034945696-8pdlgbungn0lhv4vgc80mfso29sr96kj.apps.googleusercontent.com'>
+      <ThemeProvider theme={theme}>
 
-        <Grow in>
-          <Container>
-            <Grid container justify="space-between" alignItems="stretch" spacing={3}>
-              <Grid item xs={12} sm={7}><Posts /></Grid>
-              <Grid item xs={12} sm={4}><Form /></Grid>
-            </Grid>
+        <BrowserRouter>
+          <Container maxWidth="xl">
+
+            <Navbar />
+            <Routes>
+              <Route path="/posts" exact element={<Home />} />
+              <Route path="/" exact element={<Navigate replace to="/posts" />} />
+              <Route path="/posts/search" exact element={<Home />} />
+              <Route path="/posts/:id" element={<PostDetails />} />
+              <Route path="/auth" exact element={(!user ? <Auth /> : <Navigate replace to="/posts" />)} />
+            </Routes>
+
           </Container>
-        </Grow>
+        </BrowserRouter>
 
-      </Container>
-    </ThemeProvider>
+      </ThemeProvider>
+    </GoogleOAuthProvider>
   )
 }
 
