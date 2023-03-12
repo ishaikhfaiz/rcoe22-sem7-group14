@@ -1,0 +1,10 @@
+activity_name,upper lake,van vihar,indira gandhi rashtriya manav sangrahalaya,lower lake,bhimbetka rock shelters,shaukat mahal,moti masjid,raisen fort,sardar manzil
+upper lake,0,38,30,24,120,20,20,90,20
+van vihar,38,0,23,19,103,18,18,85,18
+indira gandhi rashtriya manav sangrahalaya,30,23,0,6,82,8,8,62,8
+lower lake,24,19,6,0,91,6,6,70,6
+bhimbetka rock shelters,120,103,82,91,0,109,108,120,108
+shaukat mahal,20,18,8,6,109,0,4,73,1
+moti masjid,20,18,8,6,108,4,0,69,1
+raisen fort,90,85,62,70,120,73,69,0,67
+sardar manzil,20,18,8,6,108,1,1,67,0

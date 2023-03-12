@@ -1,0 +1,11 @@
+activity_name,golden temple,akal takht ,wagah border,jallianwala bagh ,gobindgarh fort,durgiana temple,attari border crossing,partition museum ,maharaja ranjit singh museum ,khairuddin mosque
+golden temple,0,1,40,4,11,6,45,5,15,6
+akal takht ,1,0,44,3,11,6,45,5,15,6
+wagah border,40,44,0,46,39,42,5,41,43,41
+jallianwala bagh ,4,3,46,0,14,9,46,9,13,10
+gobindgarh fort,11,11,39,14,0,5,38,8,13,8
+durgiana temple,6,6,42,9,5,0,39,6,12,6
+attari border crossing,45,45,5,46,38,39,0,41,43,41
+partition museum ,5,5,41,9,8,6,41,0,12,4
+maharaja ranjit singh museum ,15,15,43,13,13,12,43,12,0,9
+khairuddin mosque,6,6,41,10,8,6,41,4,9,0

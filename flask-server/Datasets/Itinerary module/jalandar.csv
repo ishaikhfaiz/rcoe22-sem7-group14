@@ -1,0 +1,9 @@
+activity_name,wonderland,devi talab mandir ,pushpa gujral science city,jang-e-azadi memorial ,nikku park ,st. mary's cathedral,BAPS swaminarayan mandir,sodal mandir
+wonderland,0,22,25,35,14,23,28,21
+devi talab mandir ,22,0,15,16,13,18,9,4
+pushpa gujral science city,25,15,0,27,16,28,23,14
+jang-e-azadi memorial ,35,16,27,0,23,25,16,16
+nikku park ,14,13,16,23,0,13,15,11
+st. mary's cathedral,23,18,28,25,13,0,11,19
+BAPS swaminarayan mandir,28,9,23,16,15,11,0,12
+sodal mandir,21,4,14,16,11,19,12,0

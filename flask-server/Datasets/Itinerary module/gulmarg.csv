@@ -1,0 +1,7 @@
+activity_name,gulmarg biosphere reserve,shrine of baba reshi,st. mary's church,seven springs,maharani temple,alpather lake
+gulmarg biosphere reserve,0,22,10,24,12,68
+shrine of baba reshi,22,0,19,28,10,90
+st. mary's church,10,19,0,22,8,79
+seven springs,24,28,22,0,19,93
+maharani temple,12,10,8,19,0,82
+alpather lake,68,90,79,93,82,0

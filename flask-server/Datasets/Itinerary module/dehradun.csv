@@ -1,0 +1,8 @@
+activity_name,robbers cave,tapkeshwar temple,malsi deer park,rajaji national park,george everest's house,mindrolling monastery,dehradun zoo
+robbers cave,0,18,16,127,82,43,17
+tapkeshwar temple,18,0,25,120,83,32,25
+malsi deer park,16,25,0,121,65,45,1
+rajaji national park,127,120,121,0,193,134,129
+george everest's house,82,83,65,193,0,108,63
+mindrolling monastery,43,32,45,134,108,0,43
+dehradun zoo,17,25,1,129,63,43,0

@@ -1,0 +1,10 @@
+activity_name,lal bagh botanical garden,brigade road,banglore palace,wonderla ,vidhana soudha,nandi hills,innovative film city,tipu sultan's summer palace,ramanagara
+lal bagh botanical garden,0,12,17,50,12,106,12,6,73
+brigade road,12,0,15,60,10,106,4,15,80
+banglore palace,17,15,0,61,11,94,16,23,83
+wonderla ,50,60,61,0,58,140,58,49,31
+vidhana soudha,12,10,11,58,0,95,9,13,77
+nandi hills,106,106,94,140,95,0,120,121,170
+innovative film city,12,4,16,58,9,120,0,14,78
+tipu sultan's summer palace,6,15,23,49,13,121,14,0,67
+ramanagara,73,80,83,31,77,170,78,67,0

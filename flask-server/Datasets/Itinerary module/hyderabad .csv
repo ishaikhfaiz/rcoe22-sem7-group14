@@ -1,0 +1,8 @@
+activity_name,lumbini park,ISKCON temple,indira park,chowmahalla palace,ramoji film city ,golconda fort,hussain sagar lake
+lumbini park,0,6,6,18,58,24,6
+ISKCON temple,6,0,9,13,55,25,12
+indira park,6,9,0,20,60,26,11
+chowmahalla palace,18,13,20,0,62,31,26
+ramoji film city ,58,55,60,62,0,72,59
+golconda fort,24,25,26,31,72,0,29
+hussain sagar lake,6,12,11,26,59,29,0

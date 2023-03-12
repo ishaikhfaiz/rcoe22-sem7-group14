@@ -1,0 +1,7 @@
+activity_name,dalai lama temple,namgyal monastery,st.john in the wilderness,dal lake,bhagsunag falls,bhagsu nag temple
+dalai lama temple,0,7,9,15,13,13
+namgyal monastery,7,0,10,16,14,14
+st.john in the wilderness,9,10,0,7,10,9
+dal lake,15,16,7,0,16,16
+bhagsunag falls,13,14,10,16,0,3
+bhagsu nag temple,13,14,9,16,3,0

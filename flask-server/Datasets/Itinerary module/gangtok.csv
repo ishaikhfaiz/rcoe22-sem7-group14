@@ -1,0 +1,9 @@
+activity_name,white hall,rumtek monastery,nathula pass ,tsomgo lake,ganesh tok,namgyal institute of tibetology ,kanchenjunga ,baba harbhajan singh temple
+white hall,0,93,103,73,10,10,157,101
+rumtek monastery,93,0,180,148,83,100,126,180
+nathula pass ,103,180,0,31,96,120,240,19
+tsomgo lake,73,148,31,0,65,85,213,28
+ganesh tok,10,83,96,65,0,20,147,92
+namgyal institute of tibetology ,10,100,120,85,20,0,163,120
+kanchenjunga ,157,126,240,213,147,163,0,240
+baba harbhajan singh temple,101,180,19,28,92,120,240,0

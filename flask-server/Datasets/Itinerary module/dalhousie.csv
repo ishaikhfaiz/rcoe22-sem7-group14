@@ -1,0 +1,7 @@
+activity_name,st.john's church,kalatop sanctuary,subhash chowk,st.francis' church,dainkund peak,khajjiar lake
+st.john's church,0,38,6,7,43,63
+kalatop sanctuary,38,0,44,44,31,48
+subhash chowk,6,44,0,1,49,69
+st.francis' church,7,44,1,0,50,70
+dainkund peak,43,31,49,50,0,56
+khajjiar lake,63,48,69,70,56,0

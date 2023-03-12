@@ -1,0 +1,10 @@
+activity_name,tiger hill,batasia loop,sandakphu trek,darjeelig rangit valley ropeway,rimbik,padmaja naidu himalayan zoological park,peace pagoda,ghum monastery,rock garden
+tiger hill,0,70,263,94,210,88,77,66,91
+batasia loop,70,0,203,25,150,23,10,5,21
+sandakphu trek,263,203,0,227,275,226,203,198,225
+darjeelig rangit valley ropeway,94,25,227,0,150,7,22,29,36
+rimbik,210,150,275,150,0,153,170,144,180
+padmaja naidu himalayan zoological park,88,23,226,7,153,0,15,29,36
+peace pagoda,77,10,203,22,170,15,0,14,26
+ghum monastery,66,5,198,29,144,29,14,0,26
+rock garden,91,21,225,36,180,36,26,26,0

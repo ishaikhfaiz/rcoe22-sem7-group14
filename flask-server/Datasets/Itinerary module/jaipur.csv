@@ -1,0 +1,7 @@
+activity_name,amber palace,hawa mahal,city palace jaipur,jantar mantar,jal mahal,nahargarh
+amber palace,0,15,17,16,6,21
+hawa mahal,15,0,3,3,9,26
+city palace jaipur,17,3,0,1,10,28
+jantar mantar,16,3,1,0,10,27
+jal mahal,6,9,10,10,0,20
+nahargarh,21,26,28,27,20,0

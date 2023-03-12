@@ -1,0 +1,8 @@
+activity_name,sela pass,tawang monastery,shonga-tser lake,nuranang falls,tawang war memorial,gorichen peak,mechuka
+sela pass,0,154,140,95,145,130,1320
+tawang monastery,154,0,80,65,30,120,1500
+shonga-tser lake,140,80,0,70,70,100,300
+nuranang falls,95,65,70,0,67,120,1450
+tawang war memorial,145,30,70,67,0,60,1550
+gorichen peak,130,120,100,120,60,0,1400
+mechuka,1320,1500,300,1450,1550,1400,0

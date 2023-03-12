@@ -1,0 +1,13 @@
+activity_name,buddha jayanti park,madame tussauds,deer park,mehrauli archaeological park,tughlaqabad fort,agrasen ki baoli ,chandni chowk,india gate ,national rail museum ,safdarjung's tomb,jahaz mahal,red fort
+buddha jayanti park,0,11,22,29,34,17,20,14,8,15,30,22
+madame tussauds,11,0,26,33,35,6,11,8,14,20,36,11
+deer park,22,26,0,21,27,25,35,22,20,13,24,32
+mehrauli archaeological park,29,33,14,0,14,26,36,23,19,15,7,33
+tughlaqabad fort,34,35,27,14,0,32,43,29,29,25,21,37
+agrasen ki baoli ,17,6,25,26,32,0,12,6,15,19,34,13
+chandni chowk,20,11,35,36,43,12,0,13,25,28,44,6
+india gate ,14,8,22,23,29,6,13,0,13,16,32,12
+national rail museum ,8,14,20,19,29,15,23,13,0,10,26,24
+safdarjung's tomb,15,20,13,15,25,19,28,16,10,0,20,25
+jahaz mahal,30,36,24,7,21,34,44,32,26,20,0,36
+red fort,22,11,32,33,37,13,6,12,24,36,0,0

@@ -1,5 +1,6 @@
 server/node_modules/
 client/delve/node_modules
+flask-server/myenv
 jspm_packages/
 bower_components/
 

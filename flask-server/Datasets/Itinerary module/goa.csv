@@ -1,0 +1,19 @@
+activity_name,sandlewood ayurveda spa,agonda beach,tanshikar's organic and spice farm,utardo beach,mandrem beach,varca beach,cavelossim beach,benaulim beach,st.cajetan's church,shantadurga temple,palolem beach,reis magos fort,basilica of bom jesus,tomb of st.francis xavier,se cathedral,mangeshi temple,arambol beach,dudhsagar falls
+sandlewood ayurveda spa,0,50,66,39,120,17,2,23,83,59,49,92,81,81,82,34,137,113
+agonda beach,50,0,66,76,157,58,51,61,108,84,16,120,107,108,108,60,98,128
+tanshikar's organic and spice farm,66,66,0,86,161,67,66,72,136,90,53,126,120,120,120,69,168,104
+utardo beach,39,76,86,0,97,31,39,20,71,42,71,61,48,48,48,25,104,120
+mandrem beach,120,157,161,97,0,120,124,106,31,94,148,54,65,65,65,102,7,169
+varca beach,17,58,67,31,120,0,19,16,91,48,53,81,70,70,70,27,124,108
+cavelossim beach,2,51,66,39,124,19,0,24,98,58,49,90,79,80,80,34,131,112
+benaulim beach,23,61,72,20,106,16,24,0,83,41,58,73,63,60,60,22,120,110
+st.cajetan's church,83,108,136,71,31,91,98,83,0,67,120,27,36,36,37,73,36,150
+shantadurga temple,59,84,90,42,94,48,58,41,67,0,81,55,31,31,30,31,97,94
+palolem beach,49,16,53,71,148,53,49,58,120,81,0,120,106,106,107,61,156,129
+reis magos fort,92,120,126,61,54,81,90,73,27,55,120,0,24,25,25,62,59,140
+basilica of bom jesus,81,107,120,48,65,70,79,63,36,31,106,24,0,5,5,53,68,120
+tomb of st.francis xavier,81,108,120,48,65,70,80,60,36,31,106,25,5,0,5,53,69,120
+se cathedral,82,108,120,48,65,70,80,37,30,107,25,5,5,5,0,53,69,120
+mangeshi temple,34,60,69,25,102,27,34,22,73,31,61,62,53,53,53,0,107,97
+arambol beach,137,98,168,104,7,124,131,120,36,97,156,59,68,69,69,107,0,180
+dudhsagar falls,113,128,104,120,169,108,112,110,150,94,129,140,120,120,120,97,180,0

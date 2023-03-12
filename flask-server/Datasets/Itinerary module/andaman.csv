@@ -1,0 +1,12 @@
+activity_name,ross island,radhanagar beach,cellular jail,jolly buoy island,bharatpur beach,laxmanpur beach,elephant beach,kalapathar beach,howrah bridge,corbyn's cove,north bay island
+ross island,0,190,45,70,90,90,80,95,80,40,30
+radhanagar beach,190,0,180,220,100,120,4,22,80,189,83
+cellular jail,45,180,0,44,60,70,170,171,60,12,90
+jolly buoy island,70,220,44,0,100,150,220,126,100,120,76
+bharatpur beach,90,100,60,100,0,6,50,50,5,80,70
+laxmanpur beach,90,120,70,150,6,0,60,50,8,90,80
+elephant beach,80,4,170,220,50,60,0,18,40,185,260
+kalapathar beach,95,22,171,126,50,50,18,0,50,184,257
+howrah bridge,80,80,60,100,5,8,40,50,0,70,70
+corbyn's cove,40,189,12,120,80,90,185,184,70,0,83
+north bay island,30,83,90,76,70,80,260,257,70,83,0

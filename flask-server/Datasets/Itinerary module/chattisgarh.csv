@@ -1,0 +1,8 @@
+activity_name,bilai mata mandir,gangrel dam,danteshwari temple,dhakpo shedupling monastery,tiger point mainpat,daroga jharna,chitrakote falls
+bilai mata mandir,0,18,90,605,628,340,240
+gangrel dam,18,0,102,600,550,360,290
+danteshwari temple,90,102,0,660,600,420,280
+dhakpo shedupling monastery,605,600,660,0,40,338,840
+tiger point mainpat,628,550,600,40,0,300,900
+daroga jharna,340,360,420,338,300,0,605
+chitrakote falls,240,290,280,840,900,605,0
