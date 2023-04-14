@@ -9,11 +9,8 @@ import Home from './components/Home/Home';
 import PostDetails from './components/PostDetails/PostDetails';
 import Auth from './components/Auth/Auth';
 import { GoogleOAuthProvider } from '@react-oauth/google';
-<<<<<<< Updated upstream
 import Itinerary from './components/Itinerary/Itinerary';
-=======
 import Deals from './components/Deals/Deals';
->>>>>>> Stashed changes
 
 const App = () => {
   const theme = createTheme();
@@ -33,11 +30,8 @@ const App = () => {
               <Route path="/posts/search" exact element={<Home />} />
               <Route path="/posts/:id" element={<PostDetails />} />
               <Route path="/auth" exact element={(!user ? <Auth /> : <Navigate replace to="/posts" />)} />
-<<<<<<< Updated upstream
-              <Route path="/itinerary" exact element={<Itinerary/>}/>
-=======
+              <Route path="/itinerary" exact element={<Itinerary/>
               <Route path="/deals" element={<Deals />} />
->>>>>>> Stashed changes
             </Routes>
 
           </Container>
