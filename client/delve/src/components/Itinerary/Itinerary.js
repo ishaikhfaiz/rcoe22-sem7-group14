@@ -424,6 +424,7 @@ const Itinerary = () => {
             <div className={classes.scroll}>
 
               <Typography>
+              Note: The Iternary is Based on Best Possible Match using Machine Learning techniques.
                 <pre>
                   {showTypewriter && <Typewriter key={key} text={itineraryText} delay={40} isTyping={isTyping} />}
                 </pre>
