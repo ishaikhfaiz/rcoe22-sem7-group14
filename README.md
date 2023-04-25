@@ -1,7 +1,9 @@
 # DELVE - Social Media & Itiernary generator Application
 
-> **Abstract** : This Project Aims to Create a Niche Based Full Stack Social Media Website, focusing on the Content Related to Travel Destinations, also Exploring each other’s Experience of exploring Destinations (Reviews).
-Apart from this, This Website will also help users to get the best deals on the selected locations, making this possible using Web Scraping.
+> **Abstract** : Travelling is one of the greatest experiences which makes the human learn many skills, experience emotions of others in the life. In this project we have proposed a system which helps the tourist to travel easily by giving the experience of our MERN-based travel website DELVE. The system consists of features like posting pictures on which other users can give a like and comment on it. 
+The key feature of our system is recommending the Itinerary of the tourist places to visit at a low cost and in less time. Another one is that the system provides the best deal to the user to travel to their favorite places. And the most important is a review of the tourist places which makes the system more efficient to recommend the user to travel.
+Keywords: social media, Reviews, Personalized Itinerary, Travel Deals, Tourism.
+
 
 ### Project Members
 1. SHAIKH FAIZ SALIM  [ Team Leader ] 
