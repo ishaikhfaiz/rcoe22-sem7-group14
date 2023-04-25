@@ -10,6 +10,7 @@ import PostDetails from './components/PostDetails/PostDetails';
 import Auth from './components/Auth/Auth';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 import Itinerary from './components/Itinerary/Itinerary';
+import Deals from './components/Deals/Deals';
 
 const App = () => {
   const theme = createTheme();
@@ -30,6 +31,7 @@ const App = () => {
               <Route path="/posts/:id" element={<PostDetails />} />
               <Route path="/auth" exact element={(!user ? <Auth /> : <Navigate replace to="/posts" />)} />
               <Route path="/itinerary" exact element={<Itinerary/>}/>
+              <Route path="/deals" element={<Deals />} />
             </Routes>
 
           </Container>
