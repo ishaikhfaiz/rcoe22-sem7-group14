@@ -1,4 +1,4 @@
-# DELVE - Niche Based Social Media Application using MERN Stack
+# DELVE - Social Media & Itiernary generator Application
 
 > **Abstract** : This Project Aims to Create a Niche Based Full Stack Social Media Website, focusing on the Content Related to Travel Destinations, also Exploring each other’s Experience of exploring Destinations (Reviews).
 Apart from this, This Website will also help users to get the best deals on the selected locations, making this possible using Web Scraping.
