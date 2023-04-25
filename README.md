@@ -4,7 +4,7 @@
 Apart from this, This Website will also help users to get the best deals on the selected locations, making this possible using Web Scraping.
 
 ### Project Members
-1. SHAIKH FAIZ SALIM SHAMIM  [ Team Leader ] 
+1. SHAIKH FAIZ SALIM  [ Team Leader ] 
 2. QUADRI SHIRAZ HUMAIR 
 3. KHAN MOHD ANAS MAKSOOD ALAM 
 4. YADAV RAHUL OMPRAKASH 
@@ -16,10 +16,10 @@ Apart from this, This Website will also help users to get the best deals on the 
 
 ### Deployment Steps
 Please follow the below steps to run this project.
-1. Step 1 here
-2. Step 2 here
-3. Step 3 here
-3. and so on...
+1. Run npm install on the server side
+2. Run npm install on the client side
+3. Update your MongoDb credentials
+3. npm start on both the terminals (Client/server)
 
 ### Subject Details
 - Class : BE (COMP) Div A - 2022-2023
